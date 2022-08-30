@@ -302,6 +302,7 @@ body {
 
 /* Add Post wrapper */
 .add-post {
+  margin-top: 100px;
   padding: 1rem 10rem;
   max-width: 1000px;
 }
