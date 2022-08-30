@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import { AppContext } from '../App'
-import Del from '../assets/del.png'
 import UserLogo from '../assets/user.png'
 
 export const Search = () => {
